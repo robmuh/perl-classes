@@ -33,7 +33,7 @@ Requirements
 ============
 
 While the `classes` pragma itself has no requirements nor dependencies
-it does us the following for debugging and testing:
+it does use the following for debugging and testing:
 
 * Data::Dumper
 * Scalar::Util
