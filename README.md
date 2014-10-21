@@ -1,6 +1,8 @@
 perl-classes
 ============
 
+UPDATE: Although `perl-classes` is alive and still kicking deep in bowels of large enterprise applications I can't recommend anyone start anything new with it these days. There's nothing wrong with except being written in Perl, which as a language in general has lost a lot of ground in the enterprise application space. I recommend Python or Node for small and enterprise-size behemouth applications of the type this module was created to build.
+
 classes - Conventional Perl 5 classes
 
 A simple, stable, fast, and flexible way to use Perl 5 classes. We're
